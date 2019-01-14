@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFC_Middleware", "NFC_Middleware\NFC_Middleware.csproj", "{9DF3163A-0F51-44FC-8EB1-680CC51046A6}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "NFC_setup_wix", "NFC_setup_wix\NFC_setup_wix.wixproj", "{7C6252A0-0EBD-4665-A4A8-A2ED6A2772EE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NFC_Setup", "NFC_Setup\NFC_Setup.vdproj", "{A90F57CF-B247-4DE7-A501-509EAB7FA897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF3163A-0F51-44FC-8EB1-680CC51046A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF3163A-0F51-44FC-8EB1-680CC51046A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF3163A-0F51-44FC-8EB1-680CC51046A6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9DF3163A-0F51-44FC-8EB1-680CC51046A6}.Debug|x86.Build.0 = Debug|Any CPU
+		{9DF3163A-0F51-44FC-8EB1-680CC51046A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF3163A-0F51-44FC-8EB1-680CC51046A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF3163A-0F51-44FC-8EB1-680CC51046A6}.Release|x86.ActiveCfg = Release|Any CPU
+		{9DF3163A-0F51-44FC-8EB1-680CC51046A6}.Release|x86.Build.0 = Release|Any CPU
+		{7C6252A0-0EBD-4665-A4A8-A2ED6A2772EE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7C6252A0-0EBD-4665-A4A8-A2ED6A2772EE}.Debug|x86.ActiveCfg = Debug|x86
+		{7C6252A0-0EBD-4665-A4A8-A2ED6A2772EE}.Debug|x86.Build.0 = Debug|x86
+		{7C6252A0-0EBD-4665-A4A8-A2ED6A2772EE}.Release|Any CPU.ActiveCfg = Release|x86
+		{7C6252A0-0EBD-4665-A4A8-A2ED6A2772EE}.Release|x86.ActiveCfg = Release|x86
+		{7C6252A0-0EBD-4665-A4A8-A2ED6A2772EE}.Release|x86.Build.0 = Release|x86
+		{A90F57CF-B247-4DE7-A501-509EAB7FA897}.Debug|Any CPU.ActiveCfg = Debug
+		{A90F57CF-B247-4DE7-A501-509EAB7FA897}.Debug|x86.ActiveCfg = Debug
+		{A90F57CF-B247-4DE7-A501-509EAB7FA897}.Release|Any CPU.ActiveCfg = Release
+		{A90F57CF-B247-4DE7-A501-509EAB7FA897}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1336F717-8EF6-4821-8CC0-70F3474FB21C}
+	EndGlobalSection
+EndGlobal

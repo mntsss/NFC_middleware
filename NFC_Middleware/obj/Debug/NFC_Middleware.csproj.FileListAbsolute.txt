@@ -1,0 +1,26 @@
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\bin\Debug\NFC_Middleware.exe.config
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\bin\Debug\NFC_Middleware.exe
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\bin\Debug\NFC_Middleware.pdb
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\bin\Debug\PCSC.dll
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\bin\Debug\PCSC.xml
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.csprojResolveAssemblyReference.cache
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.Main.resources
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.Properties.Resources.resources
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.csproj.GenerateResource.Cache
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.exe
+c:\users\infinity\documents\visual studio 2017\Projects\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.pdb
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\bin\Debug\NFC_Middleware.exe.config
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\bin\Debug\NFC_Middleware.exe
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\bin\Debug\NFC_Middleware.pdb
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\bin\Debug\PCSC.dll
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\bin\Debug\PCSC.xml
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.csprojAssemblyReference.cache
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.Main.resources
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.Properties.Resources.resources
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.Settings.resources
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.csproj.CopyComplete
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.exe
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.pdb
+C:\Users\User\Desktop\NFC_Middleware\NFC_Middleware\NFC_Middleware\obj\Debug\NFC_Middleware.AboutBox1.resources
